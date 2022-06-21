@@ -1,0 +1,28 @@
+.heading{
+    font-size: 24px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:100%;
+    margin:0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.canvas{
+    border: 5px dotted white;
+    border-radius: 20px;
+}
+.song_name{
+    border-color: antiquewhite;
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200px;
+    
+}
